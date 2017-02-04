@@ -1,6 +1,6 @@
 
 package analizadorlexico;
-
+import java.util.*;
 
 public class Analizadorlexico {
 
